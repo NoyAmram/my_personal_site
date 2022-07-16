@@ -106,9 +106,16 @@ p{
 
 }
 
-.programming{
+.data{
     width: 20%;
     float: left;
+    margin-right: 30px;
+    margin-top: 30px;
+}
+
+.programming{
+    width: 20%;
+    float: right;
     margin-right: 30px;
     margin-top: 30px;
 }
