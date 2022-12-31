@@ -99,7 +99,7 @@ p{
 }
 
 .web{
-    width: 20%;
+    width: 18%;
     float: right;
     margin-left: 30px;
     margin-top: 30px;
@@ -107,14 +107,14 @@ p{
 }
 
 .data{
-    width: 20%;
+    width: 18%;
     float: left;
     margin-right: 30px;
     margin-top: 30px;
 }
 
 .programming{
-    width: 20%;
+    width: 18%;
     float: right;
     margin-right: 30px;
     margin-top: 30px;
